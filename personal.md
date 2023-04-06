@@ -20,3 +20,11 @@ We spend a short time to go seeing Cherry Blossom in San Francisco, which is ver
 <img src="IMG_1004.jpg" alt="IMG_1002" width="500"/>
 
 Overall, I believe that my combination of technical skills, communication abilities, and passion for learning make me an effective and valuable member of any programming team.
+
+_Small goal that I want to do for this year_
+
+- [x] Learn another language besides English.
+- [ ] Build a resumé
+- [ ] Get a high GPA for this quarter
+- [ ] Get an internship
+- [ ] Learn and practice Buddhism
