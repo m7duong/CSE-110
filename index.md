@@ -2,6 +2,10 @@
 
 ## About
 
+[Programmer](https://m7duong.github.io/CSE-110/#programmer)
+
+[Personal](https://m7duong.github.io/CSE-110/#personal)
+
 <img src="IMG_1000.jpg" alt="IMG_1000" width="500"/>
 
 ### Programmer
@@ -35,6 +39,6 @@ I am currently interested in Game Developer because simply I love playing video 
 
 [Reaching goal](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F9701661-Hard-Work-The-Only-Shortcut-to-Success%2Fattachments%2F1731041%3Fmode%3Dmedia&psig=AOvVaw2LxK3vVmCijI8cpVxzYU4_&ust=1680831119975000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMj134COlP4CFQAAAAAdAAAAABAE)
 
-### Person
+### Personal
 
 [Personal introduction](https://m7duong.github.io/CSE-110/personal.html)
