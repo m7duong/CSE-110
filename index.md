@@ -12,7 +12,7 @@
 
     Hi, my name is Minh Duong, and I am currently studying Computer Science at UC San Diego.
 
-As a programmer, I have learned **2** programming languages so far:
+As a programmer, I have learned **3** programming languages so far:
   - C++ (intermediate)
   - Java (intermediate)
   - Python (beginning)
@@ -32,7 +32,7 @@ I am currently interested in Game Developer because simply I love playing video 
 
 > As a programmer, I need to know as much language as possible in order to be flexible in the work. Therefore, I want to set a goal to learn some more programming language until the end of the year:
 
-        R (will learn in some of my Math course later on in UC San Diego)
+        Python (most popular programming language)
         MATHLAB (need for Math course)
         C# (helpful for game developer)
         Javascript (if I want to switch to front-end or full-stack)
